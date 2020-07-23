@@ -21,7 +21,7 @@ Nossa aplicação mobile foi desenvolvida utilizando Expo, React Native e utiliz
 
 <img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/home.jpeg"  height="350px" />
 
-## Como Excutar a aplicação?
+## Como Executar a aplicação?
 
 - O primeiro passo é clonar o repositório nossa base;
 - Em seguida dentro de cada um dos diretórios server, web e mobile iremos executar no terminal o comando `yarn`, para baixar as dependências de nossas aplicação;
