@@ -7,7 +7,7 @@ O desenvolvimento desse projeto tem o intuido de auxiar no descarte de resíduos
 
 Foi desenvolvido em NodeJS utilizando Typescript, Banco de dados SQLite;
 
-## Frontend WEB
+## Frontend Web
 
 Desenvolvido com ReactJS utilizando Typescript, é responsável pelos cadastros dos pontos de coleta no sistema;
 
@@ -19,6 +19,7 @@ Desenvolvido com ReactJS utilizando Typescript, é responsável pelos cadastros 
 
 Nossa aplicação mobile foi desenvolvida utilizando Expo, React Native e utilizando Typescript, responsavel por apresentar todos os pontos em sua região.
 
+<img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/home.jpeg"  height="350px" />
 
 ## Como Excutar a aplicação?
 
