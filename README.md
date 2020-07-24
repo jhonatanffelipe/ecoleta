@@ -5,19 +5,19 @@ O desenvolvimento desse projeto tem o intuido de auxiar no descarte de resíduos
 
 ## Backend
 
-Foi desenvolvido em NodeJS utilizando Typescript, Banco de dados SQLite;
+Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Typescript. O Banco de dados utilizado foi o SQLite, utilizando o Knex;
 
 ## Frontend Web
 
-Desenvolvido com ReactJS utilizando Typescript, é responsável pelos cadastros dos pontos de coleta no sistema;
+A Aplicação web tem por responsabilidades cadastrar os pontos de coleta informando os dados de contato, entereço e quais os tipos de resíduos são coletados. Foi desenvolvisa em Typescript utilizando o framework ReactJS 
 
 <img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/web-home.png" height="350px" />
 
 
-
 ## Mobile
 
-Nossa aplicação mobile foi desenvolvida utilizando Expo, React Native e utilizando Typescript, responsavel por apresentar todos os pontos em sua região.
+A Aplicação mobile disponibiliaz um filtro em que deve ser informada a cidade, com essa informação serão apresentados os potos de coleta em sua região, de acordo com os tipos de resíduos selecionados. O desenvolvimento da aplicação mobile foi realizado em Typescript utilizando o framework React Native. Por se tratar de uma aplicação simples utilizamos o Expo para poder utilizar algumas funcionalidades de forma simplificada, como por exemplo os serviços dde geolocalização da aplicação.
+
 
 <img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/home.jpeg"  height="350px" />
 
