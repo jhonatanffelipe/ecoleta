@@ -9,7 +9,7 @@ Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Typescript. O Ba
 
 ## Frontend Web
 
-A Aplicação web tem por responsabilidades cadastrar os pontos de coleta informando os dados de contato, entereço e quais os tipos de resíduos são coletados. Foi desenvolvisa em Typescript utilizando o framework ReactJS 
+A Aplicação web tem por responsabilidades cadastrar os pontos de coleta informando os dados de contato, entereço e quais os tipos de resíduos são coletados. Foi desenvolvida em Typescript utilizando o framework ReactJS 
 
 <img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/web-home.png" height="350px" />
 
