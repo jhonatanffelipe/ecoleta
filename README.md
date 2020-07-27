@@ -1,7 +1,7 @@
 # ♻ Ecoleta
 Projeto construído durante o Next Level Week #01 - Rocketseat. Todo o projeto foi denvolvido com a stack NodeJS, React e React Native.
 
-O desenvolvimento desse projeto tem o intuido de auxiar no descarte de resíduos. O projeto é composto por uma aplicação Web,  e uma aplicação mobile;
+O desenvolvimento desse projeto tem o intuito de auxilar no descarte de resíduos. O projeto é composto por uma aplicação Web, e uma aplicação mobile;
 
 ## Backend
 
