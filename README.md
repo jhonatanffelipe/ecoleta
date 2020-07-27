@@ -27,7 +27,7 @@
 O desenvolvimento desse projeto tem o intuito de auxilar no descarte de resíduos. O projeto é composto por uma aplicação Web, e uma aplicação mobile;
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/ecoleta.png" width="800px"/>
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/web-home.png" width="800px"/>
 </p>
 
 
@@ -68,7 +68,9 @@ A Aplicação web tem por responsabilidades cadastrar os pontos de coleta inform
 -  [React-icons](https://react-icons.github.io/react-icons/)
 -  [Ract-dropzone](https://react-dropzone.js.org/)
 
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/web-cadastro.png" width="800px"/>
+</p>
 
 ## :iphone: Mobile
 
@@ -89,12 +91,15 @@ A Aplicação mobile disponibiliaz um filtro em que deve ser informada a cidade,
 -  [React-navigation](https://reactnavigation.org/)
 -  [Axios](https://www.npmjs.com/package/axios)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/ecoleta/master/assets/home.jpeg" width="250px"/>
+</p>
 
 # :arrow_forward: Executar a aplicação
 
 - O primeiro passo é clonar o repositório nossa base;
-- Em seguida dentro de cada um dos diretórios server, web e mobile iremos executar no terminal o comando `yarn`, para baixar as dependências de nossas aplicação;
-- Iremos começar executando nosso server, para isso devemos executar o camando `yarn dev`;
+- Em seguida dentro de cada um dos diretórios backend, frontend e mobile iremos executar no terminal o comando `yarn`, para baixar as dependências de nossas aplicação;
+- Iremos começar executando nosso backend, para isso devemos executar o camando `yarn dev`;
 - Com nosso servidor executando podemos executar nossa aplicação web com o comando `yarn start`;
 - Para executar nosssa aplicação mobile, precisamos ter instalado em nosso dispositivo mobile um Aplicativo chamado Expo, e estar conectado na mesma rede wi-fi do nosso servidor;
 - Executaremos o comando `yarn start`, e iremos com nosso aplicativo, escanear o QRCode gerado em nosso terminal;
