@@ -60,7 +60,6 @@ A Aplicação web tem por responsabilidades cadastrar os pontos de coleta inform
 #### Tecnologia utilizadas na construção do Frontend
 
 -  [VS Code](https://code.visualstudio.com/)
--  [Node.js](https://nodejs.org/)
 -  [Typescript](https://www.typescriptlang.org/)
 -  [React](https://pt-br.reactjs.org/)
 -  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
@@ -83,7 +82,6 @@ A Aplicação mobile disponibiliaz um filtro em que deve ser informada a cidade,
 #### Tecnologia utilizadas na construção da aplicação Mobile
 
 -  [VS Code](https://code.visualstudio.com/)
--  [Node.js](https://nodejs.org/)
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Expo](https://expo.io/)
 -  [React](https://pt-br.reactjs.org/)
